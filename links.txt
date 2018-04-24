@@ -1,0 +1,10 @@
+About the jorlib I used in the third method of solving the knapsack problem.
+
+documentation
+http://coin-or.github.io/jorlib/apidocs/org/jorlib/alg/knapsack/KnapsackAlgorithm.html
+
+downloading instruction
+https://github.com/coin-or/jorlib/blob/master/INSTALL
+
+BinaryKnapsack class
+http://coin-or.github.io/jorlib/apidocs/org/jorlib/alg/knapsack/BinaryKnapsack.html
